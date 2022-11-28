@@ -4,8 +4,8 @@ This repository contains the data and material for the workshops of the Data Sci
 
 # Set-up
 The workshops will require you to use both R and Python. In order to be able to successfully run the workshops you will need to complete the following steps:
-1. Install python and Anaconda - you can follow the instructions here
-2. Install R and RStydio - you can follow this video [tutorial](https://www.youtube.com/watch?v=t3p6w6O283I)
+1. Install python and Anaconda - you can follow the instructions [here](https://github.com/valegiunchiglia/Biomedical_Research_DS_stream/blob/main/Set-up/MAC-Setup-Python.md) if you have a MAC and [here](https://github.com/valegiunchiglia/Biomedical_Research_DS_stream/blob/main/Set-up/Windows-Setup-Python.md) if you have a Windows.
+2. Install R and RStudio - you can follow this video [tutorial](https://www.youtube.com/watch?v=t3p6w6O283I)
 
 # Schedule
 | Date | Topic |
